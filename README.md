@@ -1,9 +1,6 @@
 <!-- 💫 GitHub Profile README - Mohan Prasandh -->
 
 <!-- 🌈 Animated Header -->
-<p align="center">
-  <img src="https://i.imgur.com/DbW3z5Y.gif" width="100%" alt="animated banner" />
-</p>
 
 <h1 align="center">Hey there 👋, I'm Mohan Prasandh</h1>
 
