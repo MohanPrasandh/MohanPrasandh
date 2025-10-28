@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00F700&width=435&lines=Learning+Full+Stack+Development;Exploring+Modern+UI%2FUX+Design;Building+Creative+Projects;Always+Curious+and+Innovative" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00F700&width=435&lines=Learning+Python+development;Exploring+Modern+UI%2FUX+Design;Building+Creative+Projects;Always+Curious+and+Innovative" alt="Typing SVG" />
   </a>
 </p>
 
